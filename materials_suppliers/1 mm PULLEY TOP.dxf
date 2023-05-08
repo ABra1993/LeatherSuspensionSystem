@@ -1,0 +1,12016 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1018
+  9
+$ACADMAINTVER
+ 70
+    39
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$LASTSAVEDBY
+  1
+Brands
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-649.3295570151486
+ 20
+531.671779056337
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+-148.4739988276164
+ 20
+660.4110543788506
+ 30
+0.0
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     1
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     0
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+367.6549135610098
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     1
+  9
+$DIMSCALE
+ 40
+1.5
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+halfdetail
+  9
+$DIMCLRD
+ 70
+   256
+  9
+$DIMCLRE
+ 70
+   256
+  9
+$DIMCLRT
+ 70
+     7
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+1.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2459870.431749063
+  9
+$TDUCREATE
+ 40
+2459870.348415729
+  9
+$TDUPDATE
+ 40
+2460069.747647257
+  9
+$TDUUPDATE
+ 40
+2460069.664313924
+  9
+$TDINDWG
+ 40
+0.0204495949
+  9
+$TDUSRTIMER
+ 40
+0.0204495255
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     3
+  9
+$PDSIZE
+ 40
+-2.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+2B71
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PEXTMAX
+ 10
+279.8444747924805
+ 20
+201.6125063896179
+ 30
+0.0
+  9
+$PLIMMIN
+ 10
+-3.67242431640625
+ 20
+-4.180416584014892
+  9
+$PLIMMAX
+ 10
+293.3382263183594
+ 20
+205.7929110527039
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+acad.ctb
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{2DF55C54-F727-48C2-AEC6-C24731B82A72}
+  9
+$VERSIONGUID
+  2
+{72C771C4-7933-447E-AB81-A562A001FF10}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  9
+$SORTENTS
+280
+   127
+  9
+$INDEXCTL
+280
+     0
+  9
+$HIDETEXT
+280
+     1
+  9
+$XCLIPFRAME
+290
+     0
+  9
+$HALOGAP
+280
+     0
+  9
+$OBSCOLOR
+ 70
+   257
+  9
+$OBSLTYPE
+280
+     0
+  9
+$INTERSECTIONDISPLAY
+280
+     1
+  9
+$INTERSECTIONCOLOR
+ 70
+   257
+  9
+$DIMASSOC
+280
+     2
+  9
+$PROJECTNAME
+  1
+
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        3
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DIMASSOC
+  2
+AcDbDimAssoc
+  3
+"AcDbDimAssoc|Product Desc:     AcDim ARX App For Dimension|Company:          Autodesk, Inc.|WEB Address:      www.autodesk.com"
+ 90
+        0
+ 91
+        2
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SORTENTSTABLE
+  2
+AcDbSortentsTable
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        3
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+IMAGE
+  2
+AcDbRasterImage
+  3
+ISM
+ 90
+      127
+ 91
+        0
+280
+     0
+281
+     1
+  0
+CLASS
+  1
+IMAGEDEF_REACTOR
+  2
+AcDbRasterImageDefReactor
+  3
+ISM
+ 90
+        1
+ 91
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+        0
+ 91
+        5
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+RASTERVARIABLES
+  2
+AcDbRasterVariables
+  3
+ISM
+ 90
+        0
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+     2047
+ 91
+        1
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+VPORT
+  5
+2B70
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+2032.933446726923
+ 22
+888.8388736036022
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+-2430.911254572248
+ 27
+-370.9231662176862
+ 37
+-3130.927735520419
+ 40
+458.6813446527051
+ 41
+2.206561360874847
+ 42
+66.55000000000462
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+  1000
+ 73
+     1
+ 74
+     1
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     4
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+934
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+HIDDEN2
+ 70
+     0
+  3
+Hidden (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+    65
+ 73
+     2
+ 40
+4.762499999999999
+ 49
+3.174999999999999
+ 74
+     0
+ 49
+-1.587499999999999
+ 74
+     0
+  0
+LTYPE
+  5
+935
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT2
+ 70
+     0
+  3
+Dot (.5x) .....................................
+ 72
+    65
+ 73
+     2
+ 40
+3.174999999999999
+ 49
+0.0
+ 74
+     0
+ 49
+-3.174999999999999
+ 74
+     0
+  0
+LTYPE
+  5
+936
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT2
+ 70
+     0
+  3
+Dash dot (.5x) _._._._._._._._._._._._._._._.
+ 72
+    65
+ 73
+     4
+ 40
+12.7
+ 49
+6.349999999999999
+ 74
+     0
+ 49
+-3.174999999999999
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.174999999999999
+ 74
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+1FA9
+102
+}
+330
+0
+100
+AcDbSymbolTable
+ 70
+    24
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     7
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+81
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer1
+ 70
+     0
+ 62
+     1
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     1
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+82
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer2
+ 70
+     0
+ 62
+     2
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     2
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+83
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer3
+ 70
+     0
+ 62
+     3
+  6
+Continuous
+290
+     0
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     3
+1000
+Continuous
+1071
+       -3
+1071
+        0
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+84
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer4
+ 70
+     0
+ 62
+     4
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     4
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+85
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer5
+ 70
+     0
+ 62
+     5
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     5
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+86
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer6
+ 70
+     0
+ 62
+     6
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     6
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+87
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer7
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     7
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+88
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer8
+ 70
+     0
+ 62
+     9
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     9
+1000
+Continuous
+1070
+     1
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+89
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer9
+ 70
+     0
+ 62
+    17
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+    17
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+8A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer10
+ 70
+     0
+ 62
+   250
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+   250
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+90
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Defpoints
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+290
+     0
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     7
+1000
+Continuous
+1071
+       -3
+1071
+        0
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1DDE
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+hatchspecial
+ 70
+     0
+ 62
+    30
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+    30
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1DF3
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+proef
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     7
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1F9D
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer11
+ 70
+     0
+ 62
+    40
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+    40
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1F9F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer12
+ 70
+     0
+ 62
+    30
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+    30
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1FA0
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer13
+ 70
+     0
+ 62
+    92
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+    92
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1FA1
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer14
+ 70
+     0
+ 62
+   140
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+   140
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1FA2
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer15
+ 70
+     0
+ 62
+   202
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+   202
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1FA3
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer16
+ 70
+     0
+ 62
+    51
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+    51
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1FA4
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer17
+ 70
+     0
+ 62
+     9
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     9
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1FA5
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer18
+ 70
+     0
+ 62
+     9
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     9
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1FA6
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer19
+ 70
+     0
+ 62
+     9
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     9
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+LAYER
+  5
+1FA7
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer20
+ 70
+     0
+ 62
+     9
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+1001
+RAK
+1000
+{ACET-LAYISO
+1070
+     0
+1070
+     9
+1000
+Continuous
+1071
+       -3
+1071
+        1
+1005
+F
+1000
+ACET-LAYISO}
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+367.6549135610098
+  3
+txt
+  4
+
+  0
+STYLE
+  5
+933
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+
+ 70
+     1
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+ltypeshp.shx
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+VIEW
+  5
+6FE
+330
+6
+100
+AcDbSymbolTableRecord
+100
+AcDbViewTableRecord
+  2
+1
+ 70
+     0
+ 40
+537.1228414751053
+ 10
+0.0
+ 20
+0.0
+ 41
+802.3604822530348
+ 11
+635.3354432021785
+ 21
+-1380.651713085036
+ 31
+175.6360394624891
+ 12
+267.2212719829768
+ 22
+251.0321518403913
+ 32
+-1.079818868299325
+ 42
+66.55000000000462
+ 43
+0.0
+ 44
+0.0
+ 50
+0.6192588758233391
+ 71
+     1
+281
+     2
+ 72
+     1
+110
+109.6900431535382
+120
+131.1579500130103
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+     4
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+946
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+RAK
+ 70
+     0
+  0
+APPID
+  5
+17AD
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_PSEXT
+ 70
+     0
+  0
+APPID
+  5
+1F9E
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     6
+100
+AcDbDimStyleTable
+ 71
+     4
+340
+AA3
+340
+AA5
+340
+AA6
+340
+27
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 40
+3.0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+176
+   256
+177
+   256
+178
+     7
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+AA3
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+halfdetail
+ 70
+     0
+ 40
+1.5
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+176
+   256
+177
+   256
+178
+     7
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+AA5
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+detail
+ 70
+     0
+ 40
+0.75
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+176
+   256
+177
+   256
+178
+     7
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+AA6
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+schaal 1 op 5
+ 70
+     0
+ 40
+1.5
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+144
+0.2
+147
+0.625
+171
+     3
+172
+     1
+176
+   256
+177
+   256
+178
+     7
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+D10
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+meubel
+ 70
+     0
+ 41
+1.0
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+179
+     1
+271
+     1
+272
+     1
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+342
+C5F
+371
+    13
+372
+    13
+  0
+DIMSTYLE
+105
+D11
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+meubel 60 %
+ 70
+     0
+ 41
+1.0
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+3.0
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+179
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+342
+C5F
+371
+    13
+372
+    13
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+BLOCK_RECORD
+  5
+1F
+102
+{ACAD_XDICTIONARY
+360
+C2
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+51
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+56
+  0
+BLOCK_RECORD
+  5
+947
+102
+{ACAD_XDICTIONARY
+360
+9DE
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+A$C13F64789
+340
+0
+  0
+BLOCK_RECORD
+  5
+C5F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_Dot
+340
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+52
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+53
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+57
+330
+55
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+58
+330
+55
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+9E0
+330
+947
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+A$C13F64789
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+A$C13F64789
+  1
+
+  0
+TEXT
+  5
+948
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+-0.000004244464435
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+-0.000004244464435
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+949
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+4.32217806869994
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+4.32217806869994
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+94A
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+8.644360381864316
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+8.644360381864316
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+94B
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+12.96654269502869
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+12.96654269502869
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+94C
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+17.28872500819307
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+17.28872500819307
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+94D
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+21.61090732135745
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+21.61090732135745
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+94E
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+25.93308963452182
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+25.93308963452182
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+94F
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+30.2552719476862
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+30.2552719476862
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+950
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+34.57745426085057
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+34.57745426085057
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+951
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+38.89963657401495
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+38.89963657401495
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+952
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+43.22181888717932
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+43.22181888717932
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+953
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+47.5440012003437
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+47.5440012003437
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+954
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+51.86618351350808
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+51.86618351350808
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+955
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+56.18836582667245
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+56.18836582667245
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+956
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+60.51054813983682
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+60.51054813983682
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+957
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+64.8327304530012
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+64.8327304530012
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+958
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+69.15491276616558
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+69.15491276616558
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+959
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+73.47709507932996
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+73.47709507932996
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+95A
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+77.79927739249433
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+77.79927739249433
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+95B
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+82.1214597056587
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+82.1214597056587
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+95C
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+86.44364201882309
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+86.44364201882309
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+95D
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+90.76582433198746
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+90.76582433198746
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+95E
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+95.08800664515183
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+95.08800664515183
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+95F
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+99.41018895831621
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+99.41018895831621
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+960
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+103.7323712714806
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+103.7323712714806
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+961
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+108.0545535846449
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+108.0545535846449
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+962
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+112.3767358978093
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+112.3767358978093
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+963
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+116.6989182109737
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+116.6989182109737
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+964
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+121.0211005241381
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+121.0211005241381
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+965
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+125.3432828373024
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+125.3432828373024
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+966
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+129.6654651504668
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+129.6654651504668
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+967
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+133.9876474636312
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+133.9876474636312
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+968
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+138.3098297767956
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+138.3098297767956
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+969
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+142.6320120899599
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+142.6320120899599
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+96A
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+146.9541944031243
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+146.9541944031243
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+96B
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+151.2763767162887
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+151.2763767162887
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+96C
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+155.5985590294531
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+155.5985590294531
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+96D
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+159.9207413426175
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+159.9207413426175
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+96E
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+164.2429236557818
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+164.2429236557818
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+96F
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+168.5651059689462
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+168.5651059689462
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+970
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+172.8872882821106
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+172.8872882821106
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+971
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+177.209470595275
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+177.209470595275
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+972
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+181.5316529084393
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+181.5316529084393
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+973
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+185.8538352216037
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+185.8538352216037
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+974
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+190.1760175347681
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+190.1760175347681
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+975
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+194.4981998479325
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+194.4981998479325
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+976
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+198.8203821610968
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+198.8203821610968
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+977
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+203.1425644742612
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+203.1425644742612
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+978
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+207.4647467874256
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+207.4647467874256
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+979
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+0.0000045183805923
+ 20
+211.78692910059
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+69.87023032670549
+ 21
+211.78692910059
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+97A
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+-0.000004244464435
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+-0.000004244464435
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+97B
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+4.32217806869994
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+4.32217806869994
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+97C
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+8.644360381864316
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+8.644360381864316
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+97D
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+12.96654269502869
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+12.96654269502869
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+97E
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+17.28872500819307
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+17.28872500819307
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+97F
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+21.61090732135745
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+21.61090732135745
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+980
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+25.93308963452182
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+25.93308963452182
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+981
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+30.2552719476862
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+30.2552719476862
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+982
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+34.57745426085057
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+34.57745426085057
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+983
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+38.89963657401495
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+38.89963657401495
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+984
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+43.22181888717932
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+43.22181888717932
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+985
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+47.5440012003437
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+47.5440012003437
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+986
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+51.86618351350808
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+51.86618351350808
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+987
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+56.18836582667245
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+56.18836582667245
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+988
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+60.51054813983682
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+60.51054813983682
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+989
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+64.8327304530012
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+64.8327304530012
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+98A
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+69.15491276616558
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+69.15491276616558
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+98B
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+73.47709507932996
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+73.47709507932996
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+98C
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+77.79927739249433
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+77.79927739249433
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+98D
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+82.1214597056587
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+82.1214597056587
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+98E
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+86.44364201882309
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+86.44364201882309
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+98F
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+90.76582433198746
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+90.76582433198746
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+990
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+95.08800664515183
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+95.08800664515183
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+991
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+99.41018895831621
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+99.41018895831621
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+992
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+103.7323712714806
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+103.7323712714806
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+993
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+108.0545535846449
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+108.0545535846449
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+994
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+112.3767358978093
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+112.3767358978093
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+995
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+116.6989182109737
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+116.6989182109737
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+996
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+121.0211005241381
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+121.0211005241381
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+997
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+125.3432828373024
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+125.3432828373024
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+998
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+129.6654651504668
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+129.6654651504668
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+999
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+133.9876474636312
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+133.9876474636312
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+99A
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+138.3098297767956
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+138.3098297767956
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+99B
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+142.6320120899599
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+142.6320120899599
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+99C
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+146.9541944031243
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+146.9541944031243
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+99D
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+151.2763767162887
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+151.2763767162887
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+99E
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+155.5985590294531
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+155.5985590294531
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+99F
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+159.9207413426175
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+159.9207413426175
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A0
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+164.2429236557818
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+164.2429236557818
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A1
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+168.5651059689462
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+168.5651059689462
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A2
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+172.8872882821106
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+172.8872882821106
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A3
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+177.209470595275
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+177.209470595275
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A4
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+181.5316529084393
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+181.5316529084393
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A5
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+185.8538352216037
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+185.8538352216037
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A6
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+190.1760175347681
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+190.1760175347681
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A7
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+194.4981998479325
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+194.4981998479325
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A8
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+198.8203821610968
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+198.8203821610968
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9A9
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+203.1425644742612
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+203.1425644742612
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9AA
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+207.4647467874256
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+207.4647467874256
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9AB
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+75.46501937096218
+ 20
+211.78692910059
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+145.3352451792871
+ 21
+211.78692910059
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9AC
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+-0.000004244464435
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+-0.000004244464435
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9AD
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+4.32217806869994
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+4.32217806869994
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9AE
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+8.644360381864316
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+8.644360381864316
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9AF
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+12.96654269502869
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+12.96654269502869
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B0
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+17.28872500819307
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+17.28872500819307
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B1
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+21.61090732135745
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+21.61090732135745
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B2
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+25.93308963452182
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+25.93308963452182
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B3
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+30.2552719476862
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+30.2552719476862
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B4
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+34.57745426085057
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+34.57745426085057
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B5
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+38.89963657401495
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+38.89963657401495
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B6
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+43.22181888717932
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+43.22181888717932
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B7
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+47.5440012003437
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+47.5440012003437
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B8
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+51.86618351350808
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+51.86618351350808
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9B9
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+56.18836582667245
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+56.18836582667245
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9BA
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+60.51054813983682
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+60.51054813983682
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9BB
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+64.8327304530012
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+64.8327304530012
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9BC
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+69.15491276616558
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+69.15491276616558
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9BD
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+73.47709507932996
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+73.47709507932996
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9BE
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+77.79927739249433
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+77.79927739249433
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9BF
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+82.1214597056587
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+82.1214597056587
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C0
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+86.44364201882309
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+86.44364201882309
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C1
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+90.76582433198746
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+90.76582433198746
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C2
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+95.08800664515183
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+95.08800664515183
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C3
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+99.41018895831621
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+99.41018895831621
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C4
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+103.7323712714806
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+103.7323712714806
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C5
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+108.0545535846449
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+108.0545535846449
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C6
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+112.3767358978093
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+112.3767358978093
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C7
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+116.6989182109737
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+116.6989182109737
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C8
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+121.0211005241381
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+121.0211005241381
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9C9
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+125.3432828373024
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+125.3432828373024
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9CA
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+129.6654651504668
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+129.6654651504668
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9CB
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+133.9876474636312
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+133.9876474636312
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9CC
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+138.3098297767956
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+138.3098297767956
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9CD
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+142.6320120899599
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+142.6320120899599
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9CE
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+146.9541944031243
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+146.9541944031243
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9CF
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+151.2763767162887
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+151.2763767162887
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D0
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+155.5985590294531
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+155.5985590294531
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D1
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+159.9207413426175
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+159.9207413426175
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D2
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+164.2429236557818
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+164.2429236557818
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D3
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+168.5651059689462
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+168.5651059689462
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D4
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+172.8872882821106
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+172.8872882821106
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D5
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+177.209470595275
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+177.209470595275
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D6
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+181.5316529084393
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+181.5316529084393
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D7
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+185.8538352216037
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+185.8538352216037
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D8
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+190.1760175347681
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+190.1760175347681
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9D9
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+194.4981998479325
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+194.4981998479325
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9DA
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+198.8203821610968
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+198.8203821610968
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9DB
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+203.1425644742612
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+203.1425644742612
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9DC
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+207.4647467874256
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+207.4647467874256
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+9DD
+330
+947
+100
+AcDbEntity
+  8
+Layer9
+100
+AcDbText
+ 10
+150.9300342235438
+ 20
+211.78692910059
+ 30
+0.0
+ 40
+2.205212750275677
+  1
+COPYRIGHT AMSTERDAMSE MEUBELMAKERS
+ 41
+0.9505236054832842
+ 72
+     5
+ 11
+220.8002600318687
+ 21
+211.78692910059
+ 31
+0.0
+100
+AcDbText
+  0
+ENDBLK
+  5
+9E1
+330
+947
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+C60
+330
+C5F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_Dot
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_Dot
+  1
+
+  0
+LWPOLYLINE
+  5
+C61
+330
+C5F
+100
+AcDbEntity
+  8
+0
+ 62
+     0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.5
+ 10
+-0.25
+ 20
+0.0
+ 42
+1.0
+ 10
+0.25
+ 20
+0.0
+ 42
+1.0
+  0
+LINE
+  5
+C62
+330
+C5F
+100
+AcDbEntity
+  8
+0
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-0.5
+ 20
+0.0
+ 30
+0.0
+ 11
+-1.0
+ 21
+0.0
+ 31
+0.0
+  0
+ENDBLK
+  5
+C63
+330
+C5F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+2A59
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-615.1607406752923
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-618.1607406752918
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A5A
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-188.2204964103907
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-185.2204964103907
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A5B
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-578.3911880535917
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-581.3911880535918
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A5C
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-571.4751082704922
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-574.4751082704917
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A5D
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-205.9052727212411
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-204.3052727212412
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A5E
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-553.7903319596421
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-555.390331959642
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A5F
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-224.9900490320908
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-221.9900490320913
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A60
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-231.9061288151909
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-228.9061288151909
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A61
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-534.7055556487917
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-537.7055556487916
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A62
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-527.7894758656921
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-530.7894758656916
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A63
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-249.5909051260412
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-247.9909051260413
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A64
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-510.1046995548419
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-511.7046995548419
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A65
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-268.675681436891
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-265.6756814368914
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A66
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-275.591761219991
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-272.591761219991
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A67
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-491.0199232439915
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-494.0199232439915
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A68
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-484.1038434608919
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-487.1038434608915
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A69
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-293.2765375308413
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-291.6765375308414
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A6A
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-466.4190671500418
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-468.0190671500418
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A6B
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-312.3613138416911
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-309.3613138416915
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A6C
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-319.2773936247911
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-316.2773936247911
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A6D
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-447.3342908391914
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-450.3342908391914
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A6E
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-440.4182110560919
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-443.4182110560914
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A6F
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-336.9621699356414
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-335.3621699356415
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A70
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-422.7334347452416
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-424.3334347452416
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A71
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-356.0469462464912
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-353.0469462464917
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A72
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-362.9630260295912
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-359.9630260295912
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A73
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-406.6486584343913
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-403.6486584343913
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A74
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-399.7325786512913
+ 20
+541.4717790563372
+ 42
+-1.0
+ 10
+-396.7325786512918
+ 20
+541.4717790563372
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A75
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-380.6478023404416
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-379.0478023404416
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+LWPOLYLINE
+  5
+2A76
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+      179
+ 70
+     1
+ 43
+0.0
+ 10
+-360.5777731421492
+ 20
+538.6053653867361
+ 10
+-360.134582629689
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-359.3417056860317
+ 20
+539.3504587127777
+ 42
+0.1557283884274402
+ 10
+-358.5049861380416
+ 20
+540.9717790563372
+ 10
+-357.5049861380413
+ 20
+540.9717790563372
+ 42
+0.2406433998890136
+ 10
+-355.8753896463936
+ 20
+538.781939259387
+ 10
+-355.4321991339339
+ 20
+538.6053653867361
+ 10
+-340.0754768379836
+ 20
+532.4870125547477
+ 42
+0.2083234253676155
+ 10
+-332.2488630332999
+ 20
+532.4870125547479
+ 10
+-316.8921407373491
+ 20
+538.6053653867361
+ 10
+-316.4489502248889
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-315.6560732812315
+ 20
+539.3504587127777
+ 42
+0.1557283884274402
+ 10
+-314.8193537332414
+ 20
+540.9717790563372
+ 10
+-313.8193537332412
+ 20
+540.9717790563372
+ 42
+0.2406433998890136
+ 10
+-312.1897572415935
+ 20
+538.781939259387
+ 10
+-311.7465667291337
+ 20
+538.6053653867361
+ 10
+-296.3898444331835
+ 20
+532.4870125547477
+ 42
+0.2083234253676155
+ 10
+-288.5632306284998
+ 20
+532.4870125547479
+ 10
+-273.206508332549
+ 20
+538.6053653867361
+ 10
+-272.7633178200888
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-271.9704408764314
+ 20
+539.3504587127777
+ 42
+0.1557283884274402
+ 10
+-271.1337213284413
+ 20
+540.9717790563372
+ 10
+-270.1337213284411
+ 20
+540.9717790563372
+ 42
+0.2406433998890136
+ 10
+-268.5041248367934
+ 20
+538.781939259387
+ 10
+-268.0609343243336
+ 20
+538.6053653867361
+ 10
+-252.7042120283834
+ 20
+532.4870125547477
+ 42
+0.2083234253676155
+ 10
+-244.8775982236997
+ 20
+532.4870125547479
+ 10
+-229.5208759277489
+ 20
+538.6053653867361
+ 10
+-229.0776854152887
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-228.2848084716313
+ 20
+539.3504587127777
+ 42
+0.1557283884274402
+ 10
+-227.4480889236412
+ 20
+540.9717790563372
+ 10
+-226.448088923641
+ 20
+540.9717790563372
+ 42
+0.2406433998890386
+ 10
+-224.818492431993
+ 20
+538.7819392593869
+ 10
+-224.3753019195335
+ 20
+538.6053653867361
+ 10
+-209.0185796235833
+ 20
+532.4870125547477
+ 42
+0.2083234253676155
+ 10
+-201.1919658188996
+ 20
+532.4870125547479
+ 10
+-185.8352435229487
+ 20
+538.6053653867361
+ 10
+-185.3920530104885
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-184.5991760668312
+ 20
+539.3504587127777
+ 42
+0.1567826713395741
+ 10
+-183.7604232785523
+ 20
+540.9839603869859
+ 42
+0.3301115305195244
+ 10
+-185.3920530104905
+ 20
+544.1616188532885
+ 10
+-185.8352435229481
+ 20
+544.3381927259383
+ 10
+-201.1919658188986
+ 20
+550.4565455579268
+ 42
+0.2083234253676228
+ 10
+-209.0185796235831
+ 20
+550.4565455579268
+ 10
+-224.375301919533
+ 20
+544.3381927259379
+ 10
+-224.8184924319933
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-225.6113693756506
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-226.4480889236409
+ 20
+541.9717790563372
+ 10
+-227.4480889236411
+ 20
+541.9717790563372
+ 42
+0.2406433998890687
+ 10
+-229.0776854152895
+ 20
+544.161618853288
+ 10
+-229.5208759277482
+ 20
+544.3381927259383
+ 10
+-244.8775982236987
+ 20
+550.4565455579268
+ 42
+0.2083234253676228
+ 10
+-252.7042120283832
+ 20
+550.4565455579268
+ 10
+-268.0609343243332
+ 20
+544.3381927259379
+ 10
+-268.5041248367934
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-269.2970017804507
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-270.133721328441
+ 20
+541.9717790563372
+ 10
+-271.1337213284412
+ 20
+541.9717790563372
+ 42
+0.2406433998890687
+ 10
+-272.7633178200896
+ 20
+544.161618853288
+ 10
+-273.2065083325483
+ 20
+544.3381927259383
+ 10
+-288.5632306284988
+ 20
+550.4565455579268
+ 42
+0.2083234253676228
+ 10
+-296.3898444331833
+ 20
+550.4565455579268
+ 10
+-311.7465667291333
+ 20
+544.3381927259379
+ 10
+-312.1897572415935
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-312.9826341852508
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-313.8193537332411
+ 20
+541.9717790563372
+ 10
+-314.8193537332413
+ 20
+541.9717790563372
+ 42
+0.2406433998890687
+ 10
+-316.4489502248897
+ 20
+544.161618853288
+ 10
+-316.8921407373484
+ 20
+544.3381927259383
+ 10
+-332.2488630332989
+ 20
+550.4565455579268
+ 42
+0.2083234253676228
+ 10
+-340.0754768379834
+ 20
+550.4565455579268
+ 10
+-355.4321991339334
+ 20
+544.3381927259379
+ 10
+-355.8753896463936
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-356.6682665900509
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-357.5049861380412
+ 20
+541.9717790563372
+ 10
+-358.5049861380414
+ 20
+541.9717790563372
+ 42
+0.2406433998890687
+ 10
+-360.1345826296898
+ 20
+544.161618853288
+ 10
+-360.5777731421485
+ 20
+544.3381927259383
+ 10
+-375.934495438099
+ 20
+550.4565455579268
+ 42
+0.2083234253676228
+ 10
+-383.7611092427835
+ 20
+550.4565455579268
+ 10
+-399.1178315387335
+ 20
+544.3381927259379
+ 10
+-399.5610220511937
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-400.353898994851
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-401.1906185428413
+ 20
+541.9717790563372
+ 10
+-402.1906185428415
+ 20
+541.9717790563372
+ 42
+0.2406433998890687
+ 10
+-403.8202150344899
+ 20
+544.161618853288
+ 10
+-404.2634055469486
+ 20
+544.3381927259383
+ 10
+-419.6201278428991
+ 20
+550.4565455579268
+ 42
+0.2083234253676245
+ 10
+-427.4467416475836
+ 20
+550.4565455579268
+ 10
+-442.8034639435336
+ 20
+544.3381927259379
+ 10
+-443.2466544559938
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-444.0395313996511
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-444.8762509476415
+ 20
+541.9717790563372
+ 10
+-445.8762509476415
+ 20
+541.9717790563372
+ 42
+0.2406433998890392
+ 10
+-447.5058474392896
+ 20
+544.1616188532878
+ 10
+-447.9490379517487
+ 20
+544.3381927259383
+ 10
+-463.3057602476992
+ 20
+550.4565455579268
+ 42
+0.2083234253676245
+ 10
+-471.1323740523837
+ 20
+550.4565455579268
+ 10
+-486.4890963483337
+ 20
+544.3381927259379
+ 10
+-486.9322868607939
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-487.7251638044513
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-488.5618833524416
+ 20
+541.9717790563372
+ 10
+-489.5618833524417
+ 20
+541.9717790563372
+ 42
+0.2406433998890392
+ 10
+-491.1914798440897
+ 20
+544.1616188532878
+ 10
+-491.6346703565489
+ 20
+544.3381927259383
+ 10
+-506.9913926524994
+ 20
+550.4565455579268
+ 42
+0.2083234253676245
+ 10
+-514.8180064571838
+ 20
+550.4565455579268
+ 10
+-530.1747287531338
+ 20
+544.3381927259379
+ 10
+-530.6179192655941
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-531.4107962092514
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-532.2475157572417
+ 20
+541.9717790563372
+ 10
+-533.2475157572418
+ 20
+541.9717790563372
+ 42
+0.2406433998890392
+ 10
+-534.8771122488899
+ 20
+544.1616188532878
+ 10
+-535.3203027613489
+ 20
+544.3381927259383
+ 10
+-550.6770250572994
+ 20
+550.4565455579268
+ 42
+0.2083234253676245
+ 10
+-558.5036388619839
+ 20
+550.4565455579268
+ 10
+-573.860361157934
+ 20
+544.3381927259379
+ 10
+-574.3035516703941
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-575.0964286140515
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-575.9331481620417
+ 20
+541.9717790563372
+ 10
+-576.933148162042
+ 20
+541.9717790563372
+ 42
+0.2406433998890392
+ 10
+-578.56274465369
+ 20
+544.1616188532878
+ 10
+-579.0059351661491
+ 20
+544.3381927259383
+ 10
+-594.3626574620996
+ 20
+550.4565455579268
+ 42
+0.2083234253676245
+ 10
+-602.1892712667841
+ 20
+550.4565455579268
+ 10
+-617.545993562734
+ 20
+544.3381927259379
+ 10
+-617.9891840751943
+ 20
+544.161618853287
+ 42
+0.0818477657169226
+ 10
+-618.7820610188516
+ 20
+543.5930993998968
+ 42
+0.1557283884274634
+ 10
+-619.6187805668419
+ 20
+541.9717790563372
+ 42
+0.0839202169003877
+ 10
+-619.618780566842
+ 20
+540.9717790563372
+ 42
+0.2406433998890398
+ 10
+-617.9891840751941
+ 20
+538.7819392593869
+ 10
+-617.5459935627345
+ 20
+538.6053653867361
+ 10
+-602.1892712667843
+ 20
+532.4870125547477
+ 42
+0.2083234253676353
+ 10
+-594.3626574620999
+ 20
+532.4870125547481
+ 10
+-579.0059351661498
+ 20
+538.6053653867361
+ 10
+-578.5627446536896
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-577.7698677100322
+ 20
+539.3504587127777
+ 42
+0.1557283884274425
+ 10
+-576.933148162042
+ 20
+540.9717790563372
+ 10
+-575.9331481620419
+ 20
+540.9717790563372
+ 42
+0.2406433998890398
+ 10
+-574.3035516703939
+ 20
+538.7819392593869
+ 10
+-573.8603611579344
+ 20
+538.6053653867361
+ 10
+-558.5036388619841
+ 20
+532.4870125547477
+ 42
+0.2083234253676353
+ 10
+-550.6770250572998
+ 20
+532.4870125547481
+ 10
+-535.3203027613496
+ 20
+538.6053653867361
+ 10
+-534.8771122488894
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-534.0842353052321
+ 20
+539.3504587127777
+ 42
+0.1557283884274425
+ 10
+-533.2475157572418
+ 20
+540.9717790563372
+ 10
+-532.2475157572418
+ 20
+540.9717790563372
+ 42
+0.2406433998890398
+ 10
+-530.6179192655938
+ 20
+538.7819392593869
+ 10
+-530.1747287531343
+ 20
+538.6053653867361
+ 10
+-514.8180064571841
+ 20
+532.4870125547477
+ 42
+0.2083234253676353
+ 10
+-506.9913926524996
+ 20
+532.4870125547481
+ 10
+-491.6346703565495
+ 20
+538.6053653867361
+ 10
+-491.1914798440894
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-490.398602900432
+ 20
+539.3504587127777
+ 42
+0.1557283884274425
+ 10
+-489.5618833524418
+ 20
+540.9717790563372
+ 10
+-488.5618833524416
+ 20
+540.9717790563372
+ 42
+0.2406433998890398
+ 10
+-486.9322868607937
+ 20
+538.7819392593869
+ 10
+-486.4890963483341
+ 20
+538.6053653867361
+ 10
+-471.1323740523839
+ 20
+532.4870125547477
+ 42
+0.2083234253676353
+ 10
+-463.3057602476996
+ 20
+532.4870125547481
+ 10
+-447.9490379517494
+ 20
+538.6053653867361
+ 10
+-447.5058474392892
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-446.7129704956319
+ 20
+539.3504587127777
+ 42
+0.1557283884274425
+ 10
+-445.8762509476416
+ 20
+540.9717790563372
+ 10
+-444.8762509476416
+ 20
+540.9717790563372
+ 42
+0.2406433998890398
+ 10
+-443.2466544559935
+ 20
+538.7819392593869
+ 10
+-442.8034639435341
+ 20
+538.6053653867361
+ 10
+-427.4467416475838
+ 20
+532.4870125547477
+ 42
+0.2083234253676353
+ 10
+-419.6201278428994
+ 20
+532.4870125547481
+ 10
+-404.2634055469493
+ 20
+538.6053653867361
+ 10
+-403.8202150344891
+ 20
+538.7819392593869
+ 42
+0.0818477657169226
+ 10
+-403.0273380908317
+ 20
+539.3504587127777
+ 42
+0.1557283884274402
+ 10
+-402.1906185428417
+ 20
+540.9717790563372
+ 10
+-401.1906185428414
+ 20
+540.9717790563372
+ 42
+0.2406433998890136
+ 10
+-399.5610220511937
+ 20
+538.781939259387
+ 10
+-399.117831538734
+ 20
+538.6053653867361
+ 10
+-383.7611092427837
+ 20
+532.4870125547477
+ 42
+0.2083234253676155
+ 10
+-375.9344954381
+ 20
+532.4870125547479
+  0
+LWPOLYLINE
+  5
+2A77
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.0
+ 10
+-597.4759643644422
+ 20
+541.4717790563368
+ 42
+-1.0
+ 10
+-599.0759643644421
+ 20
+541.4717790563368
+ 42
+-1.0
+  0
+VIEWPORT
+  5
+1770
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbViewport
+ 10
+144.8329010009765
+ 20
+100.8062472343445
+ 30
+0.0
+ 40
+337.2794958893782
+ 41
+222.1517806396485
+ 68
+     2
+ 69
+     1
+ 12
+144.8329010009765
+ 22
+100.8062472343445
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+222.1517806396485
+ 50
+0.0
+ 51
+0.0
+ 72
+  1000
+ 90
+    32800
+  1
+
+281
+     0
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+170
+     0
+  0
+VIEWPORT
+  5
+1774
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+Layer1
+100
+AcDbViewport
+ 10
+69.96111869812011
+ 20
+100.8062531948089
+ 30
+0.0
+ 40
+139.9222373962402
+ 41
+201.6125063896179
+ 68
+     3
+ 69
+     2
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+-560.7966039363691
+ 26
+-610.9440898596995
+ 36
+-1050.320014282449
+ 17
+-4539.653445914153
+ 27
+-3329.643700022201
+ 37
+565.1063414946322
+ 42
+144.5309671650426
+ 43
+0.0
+ 44
+0.0
+ 45
+319.4863015763726
+ 50
+0.0
+ 51
+357.804780267584
+ 72
+  1000
+ 90
+    34849
+  1
+
+281
+     2
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+170
+     2
+  0
+VIEWPORT
+  5
+1776
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+Layer1
+100
+AcDbViewport
+ 10
+209.8833560943603
+ 20
+100.8062531948089
+ 30
+0.0
+ 40
+139.9222373962402
+ 41
+201.6125063896179
+ 68
+     1
+ 69
+     3
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+-3269.502125815932
+ 26
+-3269.502125815957
+ 36
+3269.502125815946
+ 17
+-1952.959080305885
+ 27
+-815.3921230484209
+ 37
+-3092.705465608768
+ 42
+95.01932917383969
+ 43
+0.0
+ 44
+0.0
+ 45
+2056.390716537445
+ 50
+0.0
+ 51
+0.0
+ 72
+  1000
+ 90
+    34849
+  1
+
+281
+     2
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+170
+     2
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_COLOR
+350
+6B
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_IMAGE_DICT
+350
+FA4
+  3
+ACAD_IMAGE_VARS
+350
+FAB
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MATERIAL
+350
+6A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+ACAD_TABLESTYLE
+350
+178C
+  3
+AcDbVariableDictionary
+350
+5E
+  0
+DICTIONARY
+  5
+1FA9
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_LAYERFILTERS
+360
+236F
+  3
+ACAD_LAYERSTATES
+360
+28EE
+  3
+ACLYDICTIONARY
+360
+236E
+  0
+DICTIONARY
+  5
+C2
+330
+1F
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_SORTENTS
+360
+C3
+  0
+DICTIONARY
+  5
+9DE
+330
+947
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_SORTENTS
+360
+9DF
+  0
+DICTIONARY
+  5
+6B
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+*A1
+350
+16E5
+  3
+*A2
+350
+16F3
+  3
+*A3
+350
+1736
+  0
+DICTIONARY
+  5
+FA4
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Dscn8885
+350
+FA5
+  3
+Image6
+350
+FA6
+  3
+Image7
+350
+FA7
+  3
+reginox 20
+350
+FA8
+  3
+smeg kookplaat snl97ax2
+350
+FA9
+  0
+RASTERVARIABLES
+  5
+FAB
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbRasterVariables
+ 90
+        0
+ 70
+     1
+ 71
+     1
+ 72
+     1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+51
+  3
+Layout2
+350
+56
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+6A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+178C
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+178D
+  0
+DICTIONARY
+  5
+5E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+CTABLESTYLE
+350
+1797
+  3
+DIMASSOC
+350
+5F
+  3
+HIDETEXT
+350
+63
+  0
+DICTIONARY
+  5
+236F
+102
+{ACAD_REACTORS
+330
+1FA9
+102
+}
+330
+1FA9
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+28EE
+102
+{ACAD_REACTORS
+330
+1FA9
+102
+}
+330
+1FA9
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+236E
+102
+{ACAD_REACTORS
+330
+1FA9
+102
+}
+330
+1FA9
+100
+AcDbDictionary
+281
+     1
+1001
+ACAD
+1000
+<All
+  0
+SORTENTSTABLE
+  5
+C3
+102
+{ACAD_REACTORS
+330
+C2
+102
+}
+330
+C2
+100
+AcDbSortentsTable
+330
+1F
+  0
+SORTENTSTABLE
+  5
+9DF
+102
+{ACAD_REACTORS
+330
+9DE
+102
+}
+330
+9DE
+100
+AcDbSortentsTable
+330
+947
+  0
+GROUP
+  5
+16E5
+102
+{ACAD_REACTORS
+330
+D
+102
+}
+330
+D
+100
+AcDbGroup
+300
+
+ 70
+     1
+ 71
+     1
+  0
+GROUP
+  5
+16F3
+102
+{ACAD_REACTORS
+330
+D
+102
+}
+330
+D
+100
+AcDbGroup
+300
+
+ 70
+     1
+ 71
+     1
+  0
+GROUP
+  5
+1736
+102
+{ACAD_REACTORS
+330
+D
+102
+}
+330
+D
+100
+AcDbGroup
+300
+
+ 70
+     1
+ 71
+     1
+  0
+IMAGEDEF
+  5
+FA5
+102
+{ACAD_REACTORS
+330
+FA4
+102
+}
+330
+FA4
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+D:\Mijn afbeeldingen\tijdelijk\Dscn8885.jpg
+ 10
+1600.0
+ 20
+1200.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+FA6
+102
+{ACAD_REACTORS
+330
+FA4
+102
+}
+330
+FA4
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+D:\Mijn afbeeldingen\tijdelijk\Image6.jpg
+ 10
+325.0
+ 20
+322.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+FA7
+102
+{ACAD_REACTORS
+330
+FA4
+102
+}
+330
+FA4
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+D:\Mijn afbeeldingen\tijdelijk\Image7.jpg
+ 10
+131.0
+ 20
+71.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+FA8
+102
+{ACAD_REACTORS
+330
+FA4
+102
+}
+330
+FA4
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+D:\Mijn afbeeldingen\tijdelijk\reginox 20.jpg
+ 10
+342.0
+ 20
+228.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+FA9
+102
+{ACAD_REACTORS
+330
+FA4
+102
+}
+330
+FA4
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+D:\Mijn afbeeldingen\tijdelijk\smeg kookplaat snl97ax2.jpg
+ 10
+319.0
+ 20
+188.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+LAYOUT
+  5
+51
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+HP DeskJet 1220C Printer
+  4
+A4
+  6
+
+ 40
+4.180416584014892
+ 41
+13.4937515258789
+ 42
+4.180404663085937
+ 43
+3.67242431640625
+ 44
+209.9733276367187
+ 45
+297.0106506347656
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     1
+ 73
+     1
+ 74
+     5
+  7
+acad.ctb
+ 75
+     0
+147
+1.0
+ 76
+     1
+ 77
+     2
+ 78
+   150
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+-3.67242431640625
+ 20
+-4.180416584014892
+ 11
+293.3382263183594
+ 21
+205.7929110527039
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+279.8444747924805
+ 25
+201.6125063896179
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+50
+331
+1776
+  0
+LAYOUT
+  5
+56
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+acad.ctb
+ 75
+    16
+147
+1.0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+55
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+HP DeskJet 1220C Printer
+  4
+A3
+  6
+1
+ 40
+6.043083190917968
+ 41
+13.4937515258789
+ 42
+6.043060302734375
+ 43
+3.67242431640625
+ 44
+297.0106506347656
+ 45
+419.9466552734374
+ 46
+13.98
+ 47
+0.0
+ 48
+-5487.67192826397
+ 49
+-4624.606079942355
+140
+-4898.816732649168
+141
+-3701.57005424405
+142
+1.0
+143
+2.291660278576338
+ 70
+ 11956
+ 72
+     1
+ 73
+     0
+ 74
+     4
+  7
+acad.ctb
+ 75
+     0
+147
+0.4363648527438962
+ 76
+     0
+ 77
+     2
+ 78
+   150
+148
+5487.67192826397
+149
+4624.606079942355
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+TABLESTYLE
+  5
+178D
+102
+{ACAD_REACTORS
+330
+178C
+102
+}
+330
+178C
+100
+AcDbTableStyle
+  3
+Standard
+ 70
+     0
+ 71
+     8
+ 40
+1.5
+ 41
+1.5
+280
+     0
+281
+     0
+  7
+Standard
+140
+4.5
+170
+     2
+ 62
+     0
+ 63
+     7
+283
+     0
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  7
+Standard
+140
+6.0
+170
+     5
+ 62
+     0
+ 63
+     7
+283
+     0
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  7
+Standard
+140
+4.5
+170
+     5
+ 62
+     0
+ 63
+     7
+283
+     0
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  0
+DICTIONARYVAR
+  5
+1797
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+STANDARD
+  0
+DICTIONARYVAR
+  5
+5F
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+63
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF
