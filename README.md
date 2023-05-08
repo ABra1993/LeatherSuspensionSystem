@@ -25,6 +25,6 @@ Supplementary info
 Additional information about the analysis about the leather can be found here:
 https://docs.google.com/document/d/1wCsgwAU4O0nHiB8O62IX6cypKUmrL2wZS21t7bLyCXc/edit#
 
-DISCLAIMER 
+Disclaimer
 ------------
 We have made every attempt to ensure the accuracy and reliability of the information provided on this website. However, the information provided is “as is” without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, completeness, legality, or reliability of the information contained on this repository.
