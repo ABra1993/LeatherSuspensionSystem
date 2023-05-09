@@ -13,7 +13,7 @@ This repository contains the following directories:
 
 * **scripts**: custom scripts written in Python. One script can be used to extract the information in the .csv file (located in the **data** directory) and convert it to a Pandas dataframe (read_data.py). The other two scripts reproduce Figure 7 (fig7_mm.py) and Figure 8 (fig8_40perc.py) as presented in Brands et al. (2023), visualizing the relation between the displacement of the leather over time and the relative humidity. 
 
-* **plots**: files containing the outputs from the custom scripts used to visualize the data (file names correspond to the names of the custom scripts in the **scripts** dirrectory that produce them).
+* **plots**: files containing the outputs from the custom scripts used to visualize the data (file names correspond to the names of the custom scripts in the **scripts** directory that produce them).
 
 ## Installation
 Clone the git repository to create a local copy with the following command:
